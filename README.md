@@ -13,7 +13,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 src="https://img.shields.io/github/followers/Kumarjit3?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kumarjit3&label=Profile%20views&color=0e75b6&style=flat" alt="Kumarjit3" /> </p>
 
-<p align="left"> <a href="https://twitter.com/Kumarjit3" target="blank"><img src="https://img.shields.io/twitter/follow/Kumarjit3?logo=twitter&style=for-the-badge" alt="Kumarjit3" /></a> </p>
+<p align="left"> <a href="https://twitter.com/KMongal3" target="blank"><img src="https://img.shields.io/twitter/follow/KMongal3?logo=twitter&style=for-the-badge" alt="KMongal3" /></a> </p>
 
 <h3 align="left">Languages:</h3>  
 <p align="left"> <a href="https://docs.oracle.com/en/java/" target="_blank" rel="noreferrer"> <img src="https://www.techcoil.com/blog/wp-content/uploads/Java-logo.gif" alt="java" width="50" height="45"/> </a> </a> <a href="(https://learn.microsoft.com/en-us/cpp/?view=msvc-170)" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsTB0aWQUIXpAwP_4iTOqMKzkKBcSPUfsw0Q&usqp=CAU" alt="CPP" width="50" height="40"/> </a> <a href="https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_tuilT4iSggyG0NGaNpnWd92pnD9q1wJcJqRZoq_dhcAZIr8Q1b46SP1_WFS5bLzVEa4&usqp=CAU" alt="C" width="45" height="40"/> </a> </p>
