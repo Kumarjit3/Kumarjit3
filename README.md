@@ -2,12 +2,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ======================================================================================================================================
 <h4>A Java Developer | SpringBoot</h4>
 
-- 🔭 I’m currently working on a Spring Project
-- 🌱 I’m Interested to work on Android Development
-- 👯 I’m making the world better by PRs 
-- 💬 Ask me about Technology
-- 📫 How to reach me: kumarjitmongal33@gmail.com
-- ⚡ Fun fact: I'm currently studying BCA(Bachelor of Computer Applications)
+- 🔭 I am currently working at TCS as an Ignite trainee, gaining hands-on experience in software development and industry best practices.
+- 🌱 I have a strong interest in backend development, and I believe it aligns well with my skills.
+- 👯 I have a strong interest in Java and enjoy building robust, object-oriented applications using its powerful features. 
+- 💬 Ask me about Technology.
+- 📫 How to reach me: kumarjitmongal33@gmail.com.
+- ⚡ I’m currently working on a Spring Project.
 
 <a href="https://www.github.com/Kumarjit3" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Kumarjit3?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
