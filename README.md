@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kumarjit Mongal
 ======================================================================================================================================
-<h4>A Java Developer | SpringBoot</h4>
+<h4>Learning Java Development | SpringBoot</h4>
 
 - 🔭 I am currently working at TCS as an Ignite trainee, gaining hands-on experience in software development and industry best practices.
 - 🌱 I have a strong interest in backend development, and I believe it aligns well with my skills.
